@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kasun Dilshan</h1>
 <h3 align="center">👨‍💻 I am a passionate individual with a love for exploring new technologies and solving complex problems. My focus is on creating innovative solutions that address real-world challenges and leave a meaningful impact. I’m always eager to learn, grow, and contribute to projects that push the boundaries of what technology can achieve.</h3>
-<center>
+
 ---
+
 - 🔭 I’m currently working on **Final Group research in university**
 
 - 🌱 I’m currently learning **MERN Stact**
