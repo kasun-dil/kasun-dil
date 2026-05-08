@@ -14,7 +14,7 @@
 </center>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/kasundilshanha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasundilshanha" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/kasun-dil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasun-dil" height="30" width="40" /></a>
   <a href="https://fb.com/kasundilshan.ttz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasundilshan.ttz" height="30" width="40" /></a>
